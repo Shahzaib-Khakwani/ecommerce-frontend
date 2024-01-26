@@ -1,3 +1,12 @@
+#Multi Vendor Ecommerce platform for digital products . User Authentications functionality, Adding and Buying of Digital Products, Multiple Featured Images,  Search by Categories, Dynamic Cart, Adding Addresses
+![Capture44](https://github.com/Shahzaib-Khakwani/ecommerce-frontend/assets/65272861/4239a81f-cd69-4907-a9f7-d5aa30eef299)
+![Capture6](https://github.com/Shahzaib-Khakwani/ecommerce-frontend/assets/65272861/1aab3d18-b6e4-4d0d-86e6-5419946a66c4)
+![Capture2](https://github.com/Shahzaib-Khakwani/ecommerce-frontend/assets/65272861/09bbd3fd-7a68-4ff7-a4e8-902ea63c1db0)
+![Capture](https://github.com/Shahzaib-Khakwani/ecommerce-frontend/assets/65272861/5398e8ee-ce9b-4a0d-86cb-bfb76bac9cb0)
+![Capture55](https://github.com/Shahzaib-Khakwani/ecommerce-frontend/assets/65272861/04849531-c814-426b-85b4-931bdd6e778d)
+![tempsnip](https://github.com/Shahzaib-Khakwani/ecommerce-frontend/assets/65272861/d6062c72-7f81-4e72-8535-7e06e4ab589c)
+![tempsnip2](https://github.com/Shahzaib-Khakwani/ecommerce-frontend/assets/65272861/1a2dd48d-0a12-4f32-b1a4-02a1448eb95e)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
